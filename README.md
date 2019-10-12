@@ -45,3 +45,14 @@ After clicking on sudoku it. Solution appears in both tabs.<br/>
 <img width="337" alt="3" src="https://user-images.githubusercontent.com/46564084/66696173-44f4b880-ece7-11e9-8627-bdce6739abcb.PNG">
 
 Note: The spacing between the numbers in text tab is very important for the sudoku to work.
+
+For entering a new sudoku, use clear input button.<br/>
+This code works well for all levels of sudoku.<br/>
+You might have to wait for a couple of seconds incase of a very difficult sudoku puzzle.<br/>
+
+Also, if a wrong input is given to teh sudoku then, error appears.<br/>
+Ex: Here the last row consists of only 8 values (there have to be 9)<br/>
+The error box appears.<br/>
+
+<img width="341" alt="notValid" src="https://user-images.githubusercontent.com/46564084/66696727-03b2d780-ecec-11e9-8bf4-93fab1b4431e.PNG">
+
