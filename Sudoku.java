@@ -1,6 +1,6 @@
 
 // Author: P. Sai Mounika
-// Roll Number: 1710110290
+
 // this code has three modes of taking in the input question.
 // through a grid where each cell has to be typed out
 // by adding csv file, output is displayed immediately in the matrix
@@ -36,7 +36,7 @@ import javax.swing.UnsupportedLookAndFeelException;
 import javax.swing.filechooser.FileSystemView;
 
 
-public class Sudoku_1710110290 {
+public class Sudoku {
     static JFrame frame= new JFrame("Sudoku");
     // creating a tab to add the two options of adding input
     static JTabbedPane tabPane= new JTabbedPane();
