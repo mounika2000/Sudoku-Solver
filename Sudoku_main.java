@@ -36,7 +36,7 @@ import javax.swing.UnsupportedLookAndFeelException;
 import javax.swing.filechooser.FileSystemView;
 
 
-public class Sudoku {
+public class Sudoku_main {
     static JFrame frame= new JFrame("Sudoku");
     // creating a tab to add the two options of adding input
     static JTabbedPane tabPane= new JTabbedPane();
